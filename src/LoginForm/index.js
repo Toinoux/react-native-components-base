@@ -1,1 +1,1 @@
-export { default } from './LoginForm.react'
+export { default } from './LoginForm.react';

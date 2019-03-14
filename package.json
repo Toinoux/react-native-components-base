@@ -1,6 +1,6 @@
 {
   "name": "react-native-components-base",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Toinoux/react-native-components-base.git"
+    "url": "https://github.com/Toinoux/react-native-components-base.git"
   },
   "keywords": [
     "react-native",
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Toinoux/react-native-components-base/issues"
   },
-  "homepage": "https://github.com/Toinoux/react-native-components-base#readme"
+  "homepage": "https://github.com/Toinoux/react-native-components-base#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "react": "16.4.1",
+    "react-native": "0.57.4"
+  }
 }
