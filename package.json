@@ -1,0 +1,24 @@
+{
+  "name": "react-native-components-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toinoux/react-native-components-base.git"
+  },
+  "keywords": [
+    "react-native",
+    "components",
+    "base"
+  ],
+  "author": "Toinoux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toinoux/react-native-components-base/issues"
+  },
+  "homepage": "https://github.com/Toinoux/react-native-components-base#readme"
+}
