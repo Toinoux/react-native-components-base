@@ -28,7 +28,7 @@ This library only works with React Native 0.16+.
   - Work In Progress
 
 ## Components coming soon
-  - [LoginForm](https://github.com/Toinoux/react-native-components-base#login-form)
+  - [LoginForm](https://github.com/Toinoux/react-native-components-base#loginform)
 
 ## LoginForm
 
