@@ -32,6 +32,7 @@ This library only works with React Native 0.16+.
   - [<LoginForm />](https://github.com/Toinoux/react-native-components-base#login-form)
 
 ## <LoginForm />
+
 ```javascript
 <LoginForm
     username={Boolean} // Display or not the "Username field"
