@@ -1,6 +1,6 @@
 
 
-# · [React Native Components Base] ·
+# · React Native Components Base ·
 [![toto](https://badgen.net/badge/package/v1.0.4/blue?icon=npm)](https://www.npmjs.com/package/react-native-components-base) ![toto](https://badgen.net/badge/build/passing/green?icon=circleci) [![toto](https://badgen.net/badge/PRs/welcome/purple?icon=git)](https://github.com/Toinoux/react-native-components-base/pulls) [![toto](https://badgen.net/badge/issues/here/red?icon=github)](https://github.com/Toinoux/react-native-components-base/issues)
 
 ## Installation
