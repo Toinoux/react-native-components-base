@@ -13,7 +13,6 @@ Import any required components into your project, for example:
 import { LoginForm } from 'react-native-components-base'
 ```
 
-
 *Note: Currently working on so don't forget*
 >```sh
 >$ npm update react-native-components-base
@@ -29,9 +28,9 @@ This library only works with React Native 0.16+.
   - Work In Progress
 
 ## Components coming soon
-  - [<LoginForm />](https://github.com/Toinoux/react-native-components-base#login-form)
+  - [LoginForm](https://github.com/Toinoux/react-native-components-base#login-form)
 
-## <LoginForm />
+## LoginForm
 
 ```javascript
 <LoginForm
