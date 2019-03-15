@@ -42,6 +42,7 @@ This library only works with React Native 0.16+.
     buttonValue={String} // String value for the button
     buttonStyle={StyleSheet} // Button's stylesheet
     style={StyleSheet} // Global container's stylesheet
+    callback={function()}
 />
 ```
 
